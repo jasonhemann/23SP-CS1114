@@ -49,7 +49,7 @@ The best way to get in contact for personal, private (FERPA, etc)
 messages is via my email address
 [{{ site.author.emailaddr }}]({{ site.author.email }}). You should expect a
 response within 48 hours. You will find that I am faster with
-[Piazza](piazza) or our public forums. If I deem it even potentially
+[Piazza](https://piazza.com/) or our public forums. If I deem it even potentially
 useful to others, I will likely anonymize your letter, re-post it on
 Piazza, answer it there, and forward you the link.
 
