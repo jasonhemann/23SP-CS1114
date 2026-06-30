@@ -228,7 +228,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-redirect-from
@@ -237,7 +236,6 @@ plugins:
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-redirect-from
